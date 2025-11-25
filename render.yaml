@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: xclone
+    env: python
+    region: singapore
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn index:app
