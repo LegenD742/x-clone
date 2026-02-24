@@ -26,13 +26,6 @@ This project helps detect plagiarism, redundant logic, and structural similariti
 
 ---
 
-### 📌 Similarity Comparison View
-
-<!-- IMAGE 2: Add screenshot of similarity comparison here -->
-![Similarity View Screenshot](./assets/similarity-view.png)
-
----
-
 ## 🧠 How It Works
 
 The system detects three main types of code clones:
